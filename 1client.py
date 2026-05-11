@@ -7,7 +7,7 @@ import sys
 from datetime import datetime
 
 # Configurações Padrão
-DEFAULT_SERVER_URL = "ws://127.0.0.1:8000/tunnel"
+DEFAULT_SERVER_URL = "wss://lionfish-close-midge.ngrok-free.app/ws/tunnel"
 LOCAL_HOST = "127.0.0.1"
 LOCAL_PORT = 8888
 
